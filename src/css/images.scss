@@ -1,0 +1,23 @@
+@import "variables";
+
+img {
+  width: 310px;
+  height: 200px;
+  display: block;
+}
+
+@media only screen and (min-width: $tablet) {
+
+  #front_image {
+    width: 497px;
+    height: 321px;
+    float: right;
+  }
+
+  #wagen_huis {
+    width: 259px;
+    height: 326px;
+    float: left;
+  }
+}
+

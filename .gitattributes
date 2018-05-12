@@ -1,0 +1,3 @@
+# Treat our 'created pages as binary'
+docs/* binary
+img/* binary
